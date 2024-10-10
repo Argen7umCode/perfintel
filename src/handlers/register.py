@@ -10,7 +10,7 @@ from aiogram.types import (
 )
 
 from states import Register
-from utils.categories import (
+from utils.category import (
     get_categories_from_text, 
     save_user_categories, 
     get_user_categories
